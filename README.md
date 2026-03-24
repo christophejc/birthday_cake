@@ -2,6 +2,8 @@
 
 This is the simulator for [COMS 4444, F25 project 2](https://www.cs.columbia.edu/~kar/4444f25/node19.html).
 
+## WE ARE GROUP 3
+
 ## Setup
 
 Start with installing uv, uv is a modern python package manager.
