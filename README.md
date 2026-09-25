@@ -2,7 +2,7 @@
 
 This is the simulator for [COMS 4444, F25 project 2](https://www.cs.columbia.edu/~kar/4444f25/node19.html).
 
-## I WAS GROUP 3
+## I WAS GROUP 3 (PLAYER 3)
 Responsibilities: Designed the initial helper functions that fetched the perimeter points for the
 pieces. Based on the intermediate design, implemented the recursive function
 and parallelization of said function.
